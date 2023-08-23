@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base_experience": 64,
+    "height": 7,
+    "weight": 69
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base_experience": 142,
+    "height": 10,
+    "weight": 130
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base_experience": 236,
+    "height": 20,
+    "weight": 1000
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": [
+      "Fire"
+    ],
+    "base_experience": 62,
+    "height": 6,
+    "weight": 85
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "type": [
+      "Fire"
+    ],
+    "base_experience": 142,
+    "height": 11,
+    "weight": 190
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "base_experience": 240,
+    "height": 17,
+    "weight": 905
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "type": [
+      "Water"
+    ],
+    "base_experience": 63,
+    "height": 5,
+    "weight": 90
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "type": [
+      "Water"
+    ],
+    "base_experience": 142,
+    "height": 10,
+    "weight": 225
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "type": [
+      "Water"
+    ],
+    "base_experience": 239,
+    "height": 16,
+    "weight": 855
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "type": [
+      "Bug"
+    ],
+    "base_experience": 39,
+    "height": 3,
+    "weight": 29
+  }
+]
